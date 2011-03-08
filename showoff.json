@@ -1,0 +1,19 @@
+{
+  "name": "Présentation DevOps",
+  "description": "Présentation DevOps",
+  "sections": [
+    {"section":"title"}, 
+    {"section":"me"},
+    {"section":"introduction"},
+    {"section":"coding"},
+    {"section":"tdd"},
+    {"section":"testing"},
+    {"section":"metrics"},
+    {"section":"unittest2"},
+    {"section":"doctest"},
+    {"section":"tools"},
+    {"section":"securactive"},
+    {"section":"books"},
+    {"section":"conclusion"}
+  ]
+}
